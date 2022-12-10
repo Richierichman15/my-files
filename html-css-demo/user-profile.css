@@ -1,0 +1,25 @@
+h3 {
+    padding-block: 10px;
+    color: grey;
+    font-size: small;
+    font-family: "Times New Roman";
+}
+
+.left {
+    float: left;
+    width: 47%
+}
+
+.right {
+    float: right;
+}
+
+.content {
+    color: #FF0000;
+    overflow: auto;
+}
+
+.user-profile {
+    box-shadow: forestgreen;
+    width: 20px;
+}

@@ -1,0 +1,9 @@
+.message-form-inputs > * {
+    width: 100%
+}
+.message-form {
+    width: 480px;
+    background-color: burlywood;
+    padding-block: 5px;
+    font-family: "Times New Roman"
+}

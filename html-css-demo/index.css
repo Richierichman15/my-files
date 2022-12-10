@@ -1,0 +1,33 @@
+body {
+    background-color: black;
+    color: white;
+}
+nav {
+    border: 3px solid greenyellow;
+}
+
+h1 {
+    text-align: center;
+    border: 30px solid greenyellow;
+}
+
+article {
+    height: 200px;
+}
+
+#first-article-image {
+    float: left;
+}
+
+#first-article-image {
+    float: right;
+}
+
+#second-article-image {
+    float: left;
+}
+article > img {
+    margin: 15px;
+    padding: 5px;
+    border: 2px dashed white;
+}
