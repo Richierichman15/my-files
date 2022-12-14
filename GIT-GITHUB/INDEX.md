@@ -19,3 +19,16 @@ git add
 
 * git diff
     * shows what specific code has been changed
+
+* git revert
+    * Revert back to a specific commit. (when you git log copy whats after comit ... and past it after git revert)
+
+* git log
+    * shows all commits
+
+* git checkout
+    * reverts a file to the last commit
+
+* git reset
+    * changes status from added to modified
+    * goes back after you added
