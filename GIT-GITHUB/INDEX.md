@@ -32,3 +32,12 @@ git add
 * git reset
     * changes status from added to modified
     * goes back after you added
+
+* git remote
+    * uses a connection to where we can pull or push code
+
+* git push
+    * sends the code somewhere
+
+* git pull
+    * brings in the code from somewhere
